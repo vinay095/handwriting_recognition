@@ -1,5 +1,4 @@
-# handwriting_recognition
--- Group project
+# handwriting_recognition (group project)
 CRNN based model to predict handwritten words
 
 how to use:
