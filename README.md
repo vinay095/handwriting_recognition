@@ -28,3 +28,7 @@ supports following arguments
 --save_dir  default='./saved_models'
 --force_cpu
 ```
+
+```
+python test.py --data_path path_to_best_model.pth
+```
